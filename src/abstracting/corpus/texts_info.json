@@ -1,0 +1,50 @@
+[
+   {
+       "language": "russian",
+       "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/russian/ai.txt"
+   },
+   {
+       "language": "russian",
+       "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/russian/computer_science.txt"
+   },
+   {
+       "language": "russian",
+       "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/russian/info_protection.txt"
+   },
+   {
+      "language": "russian",
+      "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/russian/leonov.txt"
+   },
+   {
+      "language": "russian",
+      "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/russian/platonov.txt"
+   },
+   {
+      "language": "russian",
+      "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/russian/plushkin.txt"
+   },
+   {
+      "language": "italian",
+      "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/italian/analysis_of_literature.txt"
+  },
+  {
+      "language": "italian",
+      "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/italian/evolution_of_computer_science.txt"
+  },
+  {
+      "language": "italian",
+      "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/italian/evolution_of_narrative.txt"
+  },
+  {
+     "language": "italian",
+     "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/italian/importance_of_literature.txt"
+  },
+  {
+     "language": "italian",
+     "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/italian/importans_of_computer_science.txt"
+  },
+  {
+     "language": "italian",
+     "text_file": "/home/user/lang-text-recognition/src/abstracting/corpus/italian/rise_of_information_technology.txt"
+  }
+]
